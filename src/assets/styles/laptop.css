@@ -1,0 +1,21 @@
+
+  
+  .laptop{
+    width: 100%;
+    max-width: 1200px;
+    position: relative;
+  }
+  
+  .laptop img{
+    width: 100%;
+  }
+  
+  .laptop .screen{
+    position: absolute;
+    width: 67.7%;
+    height: 81.3%;
+    background: #000;
+    top: 7.1%;
+    left: 17.5%;
+  }
+  

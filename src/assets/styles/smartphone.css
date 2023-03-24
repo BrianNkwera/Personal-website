@@ -1,0 +1,6 @@
+@media (max-width: 469px) {
+  .smartphone {
+    height: 180px !important;
+    width: 100px !important;
+  }
+}
