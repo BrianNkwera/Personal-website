@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Personal-website/static/css/main.5f4810e3.css",
+    "main.js": "/Personal-website/static/js/main.e142030d.js",
+    "static/media/HekimaSchools.png": "/Personal-website/static/media/HekimaSchools.f947fd68b8bdff626834.png",
+    "static/media/fitaboHome.png": "/Personal-website/static/media/fitaboHome.f75fe795dbc8dfdaa644.png",
+    "static/media/laptop2.png": "/Personal-website/static/media/laptop2.da80b1bd3b67a6322c08.png",
+    "static/media/bafredo.png": "/Personal-website/static/media/bafredo.c2db2a6a695d7ca82bf5.png",
+    "static/media/hekimaMobile.png": "/Personal-website/static/media/hekimaMobile.21d0563dbe94cfdcffd6.png",
+    "static/media/fitaboMobile.png": "/Personal-website/static/media/fitaboMobile.8bb2d1ebb372eb49c261.png",
+    "static/media/bafredoMobile.png": "/Personal-website/static/media/bafredoMobile.253300188d83c1ace082.png",
+    "static/media/laptop.png": "/Personal-website/static/media/laptop.36021c0996e54cefb8c8.png",
+    "static/media/java.png": "/Personal-website/static/media/java.6066686abfa9a1af30ff.png",
+    "static/media/nodejs-logo.png": "/Personal-website/static/media/nodejs-logo.e6d661aae7e15e226b30.png",
+    "static/media/firebase.png": "/Personal-website/static/media/firebase.c1404d2c9eb77e0a00a3.png",
+    "static/media/nest.png": "/Personal-website/static/media/nest.a2b5687ac696a15ca5ca.png",
+    "static/media/nginx-logo.png": "/Personal-website/static/media/nginx-logo.a2a0b0b216ab52985217.png",
+    "static/media/Jquery.png": "/Personal-website/static/media/Jquery.0ce0c046113a3f4a73bc.png",
+    "static/media/php.png": "/Personal-website/static/media/php.842ef02b41f2b4a40201.png",
+    "static/media/rabbitmq.png": "/Personal-website/static/media/rabbitmq.918598c063bb5f190d1a.png",
+    "static/media/docker.png": "/Personal-website/static/media/docker.c64ba719efb3dbe98aea.png",
+    "static/media/bootstrap.png": "/Personal-website/static/media/bootstrap.2800bb3ed6b40097a8d7.png",
+    "static/media/codeIgniter.png": "/Personal-website/static/media/codeIgniter.7dee10f9c7c79086c51d.png",
+    "static/media/mySQL.png": "/Personal-website/static/media/mySQL.1dc2631b700f5f1688c4.png",
+    "static/media/graphQL.png": "/Personal-website/static/media/graphQL.000a899b6755ed3534fa.png",
+    "static/media/redis.png": "/Personal-website/static/media/redis.52a85440d0cb10638fe8.png",
+    "static/media/steinerlight-webfont.woff": "/Personal-website/static/media/steinerlight-webfont.f6463247707f023d46bb.woff",
+    "static/media/socket.png": "/Personal-website/static/media/socket.07be0531efc928c7278d.png",
+    "static/media/steinerlight-webfont.woff2": "/Personal-website/static/media/steinerlight-webfont.3c73338579d260140c10.woff2",
+    "static/media/mongodb-logo.svg": "/Personal-website/static/media/mongodb-logo.3f7df0065a9e79688a79eeff71f69050.svg",
+    "static/media/logo.svg": "/Personal-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Personal-website/index.html",
+    "main.5f4810e3.css.map": "/Personal-website/static/css/main.5f4810e3.css.map",
+    "main.e142030d.js.map": "/Personal-website/static/js/main.e142030d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f4810e3.css",
+    "static/js/main.e142030d.js"
+  ]
+}
